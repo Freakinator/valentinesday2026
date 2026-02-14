@@ -161,7 +161,7 @@ export default function ValentinesProposal() {
                 onMouseEnter={() => setPosition(getRandomPosition())}
                 onClick={() => setPosition(getRandomPosition())}
               >
-                No, I won&apos;t 😢
+                No, I won&apos;t because I hate you😢
               </button>
             </div>
           </motion.div>
@@ -175,8 +175,8 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Thank you for accepting, I love you! 💕
-            <p className="text-sm mt-4">For more information, write me!!! 💌</p>
+            Thank you for everything, I love you! 💕
+            <p className="text-sm mt-4">I LOVE Anuththi Nishaharan 💌</p>
             <Image
               src="/hamster_jumping.gif"
               alt="Hamster Feliz"
