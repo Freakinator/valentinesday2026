@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c643a07-1776-4af4-9951-b11386c90b4f" name="Changes" comment="new title">
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="4c643a07-1776-4af4-9951-b11386c90b4f" name="Changes" comment="new title v2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771102546869</updated>
-      <workItem from="1771102548323" duration="4838000" />
+      <workItem from="1771102548323" duration="5211000" />
     </task>
     <task id="LOCAL-00001" summary="pics that work hopefully">
       <option name="closed" value="true" />
@@ -113,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771107376197</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new title v2">
+      <option name="closed" value="true" />
+      <created>1771107704981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771107704981</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new title v2">
+      <option name="closed" value="true" />
+      <created>1771108064476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771108064476</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +137,7 @@
     <MESSAGE value="pics that work hopefully" />
     <MESSAGE value="new text" />
     <MESSAGE value="new title" />
-    <option name="LAST_COMMIT_MESSAGE" value="new title" />
+    <MESSAGE value="new title v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="new title v2" />
   </component>
 </project>
