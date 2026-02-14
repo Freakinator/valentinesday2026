@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Happy Valentines Day Anuththi",
   description:
-    "Play a unique Valentine's card game. Complete the collection to reveal a surprise!",
+    "Play a unique Valentine's day game. Complete the collection to reveal a surprise!",
   keywords: [
     "Valentine's card game",
     "romantic proposal game",
