@@ -4,44 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c643a07-1776-4af4-9951-b11386c90b4f" name="Changes" comment="">
+    <list default="true" id="4c643a07-1776-4af4-9951-b11386c90b4f" name="Changes" comment="new text">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/1.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/10.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/10.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/11.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/11.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/12.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/12.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/13.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/13.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/14.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/14.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/15.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/15.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/16.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/16.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/17.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/17.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/18.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/18.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/19.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/19.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/2.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/20.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/20.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/21.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/21.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/22.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/22.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/23.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/23.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/24.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/24.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/25.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/25.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/26.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/26.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/27.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/27.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/28.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/28.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/29.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/29.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/3.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/30.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/30.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/31.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/31.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/32.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/32.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/33.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/33.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/34.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/34.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/35.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/35.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/36.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/36.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/4.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/5.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/6.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/7.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/8.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/8.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/game-photos/9.avif" beforeDir="false" afterPath="$PROJECT_DIR$/public/game-photos/9.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +54,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\valentinesday2026\public\game-photos" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />
@@ -118,11 +88,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771102546869</updated>
-      <workItem from="1771102548323" duration="2790000" />
+      <workItem from="1771102548323" duration="4502000" />
     </task>
+    <task id="LOCAL-00001" summary="pics that work hopefully">
+      <option name="closed" value="true" />
+      <created>1771105604889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771105604889</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new text">
+      <option name="closed" value="true" />
+      <created>1771106072461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771106072461</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pics that work hopefully" />
+    <MESSAGE value="new text" />
+    <option name="LAST_COMMIT_MESSAGE" value="new text" />
   </component>
 </project>
