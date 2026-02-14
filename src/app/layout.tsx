@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Happy Valentines Day Anuththi",
+  title: "Happy Valentines Day Anuththi!",
   description:
     "Play a unique Valentine's day game. Complete the collection to reveal a surprise!",
   keywords: [
